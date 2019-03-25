@@ -1,4 +1,4 @@
-function palindrome(str) {
+const palindrome = str => {
     const myWord = str.split('').reverse().join('');
     if (myWord === str){
         return true
