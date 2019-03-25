@@ -14,7 +14,7 @@ git clone https://github.com/seunzone/js-algorithms.git
 yarn install
 ```
 3. Run jest test for each algorithm, refer to the `package.json` file <br>
-Palindrome Test: `yarn run palindrome` <br>
+Palindrome Test: `yarn run palindrome` See explanaition on medium click [here](https://medium.com/@darealseun/javascript-algorithms-part-1-palindrome-fdb1bf84eae7)<br>
 Reverse String Test: `yarn run rev-str` <br>
 Reverse Integer Test: `yarn run rev-int` <br>
 Maximumn Character Test: `yarn run maxchar` <br>
