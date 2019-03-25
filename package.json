@@ -8,7 +8,8 @@
     "palindrome": "jest palindrome/test.js",
     "rev-str": "jest reversestr/test.js",
     "rev-int": "jest reverseint/test.js",
-    "maxchar": "jest maxchar/test.js"
+    "maxchar": "jest maxchar/test.js",
+    "fizzbuzz": "jest fizzbuzz/test.js"
   },
   "license": "MIT",
   "dependencies": {
