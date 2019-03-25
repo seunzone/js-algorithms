@@ -5,7 +5,9 @@
   "repository": "https://github.com/seunzone/js-algorithms.git",
   "author": "seunzone <darealseun@gmail.com>",
   "scripts": {
-    "start": "jest palindrome/test.js"
+    "palindrome": "jest palindrome/test.js",
+    "rev-str": "jest reversestr/test.js",
+    "rev-int": "jest reverseint/test.js"
   },
   "license": "MIT",
   "dependencies": {
