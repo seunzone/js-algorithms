@@ -1,0 +1,14 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seunzone/js-algorithms.git",
+  "author": "seunzone <darealseun@gmail.com>",
+  "scripts": {
+    "start": "jest palindrome/test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.5.0"
+  }
+}
