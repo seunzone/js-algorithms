@@ -5,10 +5,10 @@ const maxChar = str => {
     let maxChar = '';
   
     for (let char of myStr) {
-      if (charMap[char]) {
-        charMap[char]++;
-      } else {
+      if (!charMap[char]) {
         charMap[char] = 1;
+      } else {
+        charMap[char]++;
       }
     }
   
